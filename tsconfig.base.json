@@ -20,7 +20,8 @@
       ],
       "@spike008t/nestjs-azure-eventhub": [
         "packages/nestjs-azure-eventhub/src/index.ts"
-      ]
+      ],
+      "@spike008t/nestjs-prom": ["packages/nestjs-prom/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
