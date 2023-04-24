@@ -15,6 +15,9 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@spike008t/nestjs-azure-appconfig": [
+        "packages/nestjs-azure-appconfig/src/index.ts"
+      ],
       "@spike008t/nestjs-azure-eventhub": [
         "packages/nestjs-azure-eventhub/src/index.ts"
       ]
